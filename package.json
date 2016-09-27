@@ -1,0 +1,31 @@
+{ "name": "spdx-license-exceptions",
+  "version": "0.0.1",
+  "description": "Lookup SPDX license exception identifiers.",
+  "keywords": [
+    "exception",
+    "exceptions",
+    "license",
+    "SPDX"
+  ],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/spdx-license-exceptions-js#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/spdx-license-exceptions-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/spdx-license-exceptions-js/issues"
+  },
+
+  "private": false, "license": "ISC",
+
+  "main": "lice.js",
+  "bin": { "spdx-license-exceptions": "cli.js" },
+  "directories": {
+    "doc": "doc",
+    "test": "test"
+  },
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
