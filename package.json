@@ -1,5 +1,5 @@
 { "name": "spdx-license-exceptions",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Lookup SPDX license exception identifiers.",
   "keywords": [
     "exception",
@@ -21,7 +21,6 @@
   "private": false, "license": "ISC",
 
   "main": "lice.js",
-  "bin": { "spdx-license-exceptions": "cli.js" },
   "directories": {
     "doc": "doc",
     "test": "test"
